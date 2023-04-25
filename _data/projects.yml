@@ -1,4 +1,4 @@
-  - id: arabie
+- id: arabie
   title: "ArabIE: Joint Entity, Relation and Event Extraction for Arabic"
   authors:
     - name: Niama El Khbir
@@ -15,7 +15,7 @@
     article the first neural joint information extraction system for the Arabic language.
   paper: https://aclanthology.org/2022.wanlp-1.31.pdf
   
-  - id: dyref
+- id: dyref
   title: "DyReF: Extractive Question Answering with Dynamic Query Representation for Free"
   authors:
     - name: Urchade Zaratiana
