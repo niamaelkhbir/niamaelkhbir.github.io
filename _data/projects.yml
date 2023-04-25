@@ -1,4 +1,4 @@
-- id: arabie
+  - id: arabie
   title: "ArabIE: Joint Entity, Relation and Event Extraction for Arabic"
   authors:
     - name: Niama El Khbir
